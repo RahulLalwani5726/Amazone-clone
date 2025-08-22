@@ -23,8 +23,6 @@ ScreenShot 👇
 
 ![image](./Demo%20pic.jpg)
 
-here the website is hosted : https://amazon-clone008.netlify.app/
-
 ## 🔗 Live Demo
 
 👉 [Click here to view](https://rahullalwani5726.github.io/Amazone-clone/)
