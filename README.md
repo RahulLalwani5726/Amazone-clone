@@ -32,26 +32,6 @@ Feel free to explore the project by opening the `index.html` file in a web brows
 
 I plan to enhance this project by implementing additional features, improving the user interface, and making it more interactive. Your feedback and suggestions are welcome as I continue to develop and refine this Amazon clone.
 
-
-## How to Contribute
-
-If you're interested in contributing to this project, follow these steps:
-
-1. Fork the project.
-2. Create a new branch for your feature: `git checkout -b feature-name`.
-3. Commit your changes: `git commit -m 'Add new feature'`.
-4. Push to the branch: `git push origin feature-name`.
-5. Submit a pull request.
-
-Let's code together! 💻🚀
-
-
-## Authors
-
-- [@Arnabjk008](https://www.github.com/xensen008)
-- [bio links](https://xensen008.bio.link)
-
-
 ## Acknowledgements
 
 A massive shoutout and heartfelt thanks to @Shardha Khapra) for her incredible teachings on CSS! 🙌💻 Your guidance has been instrumental in reaching this milestone.
